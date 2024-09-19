@@ -1,1 +1,1 @@
-# git-intro-2 Lorès
+# git-intro-2 Lorès &Marie
